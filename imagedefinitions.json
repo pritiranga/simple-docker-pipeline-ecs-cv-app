@@ -1,6 +1,6 @@
 [
     {
-        "name": "simple-cv-app",
-        "imageUri": "888276918709.dkr.ecr.ap-south-1.amazonaws.com/docker-app-simple:latest"
+        "name": "demo-cv",
+        "imageUri": "888276918709.dkr.ecr.ap-south-1.amazonaws.com/demo-cv:latest"
     }
 ]
