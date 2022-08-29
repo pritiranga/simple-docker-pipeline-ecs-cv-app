@@ -2,11 +2,11 @@
 
 <p>Add Three Environment variables on build machine 
 
-1) AWS_DEFAULT_REGION <br>
+<b>1) AWS_DEFAULT_REGION <br></b>
   
-2) AWS_ACCOUNT_ID <br>
+<b>2) AWS_ACCOUNT_ID <br></b>
   
-3) IMAGE_REPO_NAME
+<b>3) IMAGE_REPO_NAME</b>
 
 
 
