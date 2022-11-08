@@ -1,6 +1,6 @@
 [
     {
-        "name": "demo-tuesday",
+        "name": "demo-tue",
         "imageUri": "978526189023.dkr.ecr.us-east-1.amazonaws.com/demo-ecs:ef0e328"
     }
 ]
