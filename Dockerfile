@@ -1,5 +1,5 @@
-FROM alpine:latest
-RUN apt -y install httpd
+FROM centos:centos7
+RUN yum -y install httpd
 COPY . /var/www/html/
 CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 EXPOSE 80
